@@ -44,4 +44,4 @@ client.on('message', async (message) => {
     }
 })
 keepAlive();
-client.login('OTE2Nzc2NDgzMzY2NzcyNzU2.YavEog.F15Mcyns6_10Rp1Uz8SMV8nVd30');
+client.login(config.token);
