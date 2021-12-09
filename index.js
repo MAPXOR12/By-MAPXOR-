@@ -43,5 +43,5 @@ client.on('message', async (message) => {
         message.channel.send({ component: row, embed: embed })
     }
 })
-keepAlive();
-client.login(config.token);
+keepAlive();OTE2Nzc2NDgzMzY2NzcyNzU2.YavEog.F15Mcyns6_10Rp1Uz8SMV8nVd30
+client.login('');
